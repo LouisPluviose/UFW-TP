@@ -1,6 +1,7 @@
 # README pour le script de gestion UFW
 
 Ce script Bash est conçu pour faciliter la configuration de UFW (Uncomplicated Firewall) pour gérer les règles SSH, en particulier pour sécuriser l'accès à un serveur via SSH.
+Ce script est prévu pour être installer sur les PC Linux pour les TP, à ne pas installer sur les serveurs virtuels.
 
 ## Fonctionnalités
 
